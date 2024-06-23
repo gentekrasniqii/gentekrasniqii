@@ -1,5 +1,5 @@
-# ☁ Welcome to my GitHub Profile. 
-### In this repo you will find the UI/UX of all my projects that can prove my Web Development skills. Please scroll down until the end, it will just take a few minutes.
+# ☁ Welcome to my GitHub Profile
+### In this repo you will find the UI/UX of all my projects. Please scroll down until the end, it will just take a few minutes.
 
 ## 1. Tech Services and Solutions Site (Frontend Real World Website)
 ### 🔨 Pure HTML, CSS and Javascript.
@@ -49,6 +49,6 @@ https://github.com/gentekrasniqii/gentekrasniqii/assets/158456832/4cd2ed10-de6a-
 
 ### ✨ GitHub Profile:
 ![github](https://github.com/gentekrasniqii/gentekrasniqii/assets/158456832/463d3330-c673-488b-b5f3-b049e3545897)
-### 🔒 Currently the repositories (source code) of all projects are private, please contact me for more details on
+### 🔒 Currently the repositories (source code) of all projects are private, please contact me for more details
 ### Email : gentekrasniqi@gmail.com
 ### GitHub : gentekrasniqii
