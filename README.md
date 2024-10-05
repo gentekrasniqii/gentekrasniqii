@@ -4,7 +4,7 @@
 ### Application Architecture : Monolithic with polyglot approach
 ### Tech Stack : ASP.NET Core Web API, React.js, Flowbite (Tailwind CSS Library), MSSQL, MongoDB
 ### Development time : July 2024 - September 2024
-### 💻 Application main features are content management, real time communication (Hub) and Role-Based access. Please check the videos for all details :
+### 💻 Application main features are content management, real time communication (Hub) and Role based access. Please check the videos for all details :
 
 https://github.com/user-attachments/assets/3828c4e0-8216-489c-826a-16651cb2a44e
 
@@ -19,9 +19,9 @@ https://github.com/user-attachments/assets/d907c059-66a9-4b23-bfae-86151959897d
 
 
 ## 2. To-do List Application 
-## Single Page Application
-### Tech Stack : React.js 
-### Developed in : April 2024
+### Single Page Application
+### Tech : React.js 
+### Development time : April 2024
 ### Data is stored only localy, application with a minimal design and core functionalities. Enabled task navigation with pagination and configured completed tasks to disappear automatically after 3 seconds
 ### 💻 Application features :
 
@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/37221efa-1f6e-4ada-b166-79d3baf0e2cb
 
 ## 3. Tech Services and Solutions Website
 ### Tech Stack : Pure HTML5, CSS3, and JavaScript
-### Developed in : February 2024 - April 2024
+### Development time : February 2024 - April 2024
 ### Consists 11 pages, with unique designs and features. It completes a real world website feeling. Website is responsive using media queries. 
 ### 💻 Website Features : 
 
