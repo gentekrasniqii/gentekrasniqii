@@ -1,10 +1,10 @@
-# ☁ Welcome to my GitHub Portfolio 
-## Here you will find all my projects developed with the technologies I mostly use starting from the most recent
+# ☁ GitHub Portfolio 
+## Here you will find my projects developed through college
 ## 1. Go Connect Application
-### Application Architecture : Monolithic with polyglot approach
-### Tech Stack : ASP.NET Core Web API, React.js, Flowbite (Tailwind CSS Library), MSSQL, MongoDB
+### Application Architecture : Monolithic
+### Tech Stack : ASP.NET Core C#, React JS, Tailwind + Flowbite UI, MS SQL and MongoDb
 ### Development time : July 2024 - September 2024
-### 💻 Application main features are content management, real time communication (Hub) and Role based access. Please check the videos for all details :
+### Main features are content management, real time communication (Hub) and Role based access. Please check the videos for all details :
 
 https://github.com/user-attachments/assets/3828c4e0-8216-489c-826a-16651cb2a44e
 
@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/d907c059-66a9-4b23-bfae-86151959897d
 
 ## 2. To-do List Application 
 ### Single Page Application
-### Tech : React.js 
+### Tech : ReactJS 
 ### Development time : April 2024
 ### Data is stored only localy, application with a minimal design and core functionalities. Enabled task navigation with pagination and configured completed tasks to disappear automatically after 3 seconds
 ### 💻 Application features :
@@ -56,7 +56,7 @@ https://github.com/user-attachments/assets/6191337d-7aa9-46e3-ba4d-769276ba64ff
 ### Database includes one-to-one (1:1), one-to-many (1:M), and many-to-many (M:M) relationships
 ### Executed 20+ queries / subqueries and 5+ stored procedures to retrieve and manipulate data
 
-## ✨ GitHub Contributions : 182 
-### 🔒 For privacy reasons the source codes are not publicly available but feel free to contact me through
+## Contributions : 182 
+### Source codes are not publicly available but feel free to contact me through
 ### LinkedIn : www.linkedin.com/in/gente-krasniqi
 ### Email : gentekrasniqi@gmail.com
